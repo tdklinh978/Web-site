@@ -10,8 +10,8 @@ Thành viên & Phân công (GK2):
 
 Checklist & phân công (CK2):
 - Responsive (Thành An): Done
-- Shop page (Thành An):
-- Product details (Khánh Linh):
+- Shop page (Khánh Linh): Done
+- Product details (Thành An):
 - Blog shop (Khánh Linh):
 - About page (Hà Minh):
 - Contact page (Hà Minh):

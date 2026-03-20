@@ -8,19 +8,20 @@
 }
 
 h1 {
-    font-size: 50px;
-    line-height: 64px;
+    font-size: 45px;
+    line-height: 40px;
     color: #222;
 }
 
 h2 {
-    font-size: 45px;
-    line-height:64px;
-    color:#222
+    font-size: 40px;
+    line-height:45px;
+    color:#222; 
+    margin-bottom: 10px;
 }
 
 h4 {
-    font-size: 30px;
+    font-size: 25px;
     color: #222;
 }
 
@@ -166,7 +167,7 @@ body {
 
 #hero p {
     color: #568cd2;
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 15px;
     padding-bottom: 20px;
     font-weight: bold;
@@ -179,7 +180,7 @@ body {
     padding: 14px 80px 14px 65px;
     cursor: pointer;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 15px;
     border: 0;
 }
 
@@ -328,12 +329,12 @@ body {
 
 #banner h4 {
     color: #fff;
-    font-size: 36px;
+    font-size: 30px;
 }
 
 #banner h2 {
     color: #fff;
-    font-size: 30px;
+    font-size: 18px;
     padding: 10px 0;
 }
 
@@ -343,7 +344,7 @@ body {
 
 #banner button {
     background: #eafbf4;
-    font-size: 26px;
+    font-size: 15px;
 }
 
 #banner button:hover {
@@ -378,21 +379,24 @@ body {
 
 #sm-banner h4 {
     color: #fff;
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 300;
+    margin-bottom: 12px;
 }
 
 #sm-banner h2 {
     color: #fff;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 800;
+    line-height: 1.4;
 }
 
 #sm-banner span{
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     padding-bottom: 15px;
+    margin-top: 12px;
 }
 
 #sm-banner .banner-box:hover button{
@@ -433,13 +437,13 @@ body {
 #banner3 h2{
     color: #002f3b;
     font-weight: 900;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 #banner3 h3 {
     color: #047870;
     font-weight: 800;
-    font-size: 21px
+    font-size: 15px
 }
 
 /* News Letter */

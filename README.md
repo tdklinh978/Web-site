@@ -12,9 +12,9 @@ Checklist & phân công (CK2):
 - Responsive (Thành An): Done
 - Shop page (Khánh Linh): Done
 - Product details (Khánh Linh): Done
-- Blog shop (Thành An):
-- About page (Hà Minh):
-- Contact page (Hà Minh):
+- Blog shop (Thành An): Done
+- About page (Hà Minh): Done
+- Contact page (Hà Minh): Done
 - Cart (Văn Khôi):
 
 Cách chạy: mở URL deploy hoặc mở Live Server trong index.html

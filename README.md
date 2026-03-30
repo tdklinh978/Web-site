@@ -15,6 +15,6 @@ Checklist & phân công (CK2):
 - Blog shop (Thành An): Done
 - About page (Hà Minh): Done
 - Contact page (Hà Minh): Done
-- Cart (Văn Khôi):
+- Cart (Văn Khôi): Done
 
 Cách chạy: mở URL deploy hoặc mở Live Server trong index.html
